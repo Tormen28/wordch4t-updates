@@ -1,7 +1,7 @@
 {
-  "version": "2.5.1",
+  "version": "2.5.2",
   "url": "https://raw.githubusercontent.com/Tormen28/wordch4t-updates/main/wordch4t-mini.zip",
-  "sha256": "5a980c6db1b8e365dfa2dc3b8d81f497179b47bd06dafc2da668075e6de3be96",
-  "notes": "v2.5.1: auto-actualizacion verificada + guias de prueba + LEEME corregido",
-  "fecha": "2026-09-11T18:51:27.070Z"
+  "sha256": "d722dd56221c6d421363a2c4cdc1f35572fc6e0f85648788039e182c69c2f935",
+  "notes": "v2.5.2: contenido de bienvenida automatico para cuentas nuevas (20 preguntas + 40 palabras), Reglas con Mario Kart/Clasica visible, creditos por pista, bloque Conectar tu live con comando, bridge incluido en el paquete",
+  "fecha": "2026-09-11T19:05:45.237Z"
 }
