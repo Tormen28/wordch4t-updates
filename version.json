@@ -1,7 +1,7 @@
 {
-  "version": "2.5.3",
+  "version": "2.6.0",
   "url": "https://raw.githubusercontent.com/Tormen28/wordch4t-updates/main/wordch4t-mini.zip",
-  "sha256": "530c706c338a9ad39134e90cfe42cf6fec3658f6d5492a7fbce8c6b32cdd2ca8",
-  "notes": "v2.5.3: la partida ESPERA tu live para arrancar (indicador verde/rojo + boton de prueba), bridge avisa conexion automaticamente, vista previa del tema del overlay",
-  "fecha": "2026-09-11T19:11:33.040Z"
+  "sha256": "5c0e02eb132c64ce8f0c6bd2f4d75b5438aa21fbe56c6e8d26ad49f3e982eacd",
+  "notes": "v2.6.0: Construccion en pestanas (Quiz/Palabras/Categorias) con creacion facil paso a paso y JSON oculto en Avanzado; Reglas en CUADROS (puntos por posicion 1-5 y regalos por tamano); panel Como Vamos (fases + TOP RONDA + TOP NOCHE)",
+  "fecha": "2026-09-11T19:26:15.515Z"
 }
