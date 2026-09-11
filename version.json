@@ -1,7 +1,7 @@
 {
-  "version": "2.6.0",
+  "version": "2.6.1",
   "url": "https://raw.githubusercontent.com/Tormen28/wordch4t-updates/main/wordch4t-mini.zip",
-  "sha256": "5c0e02eb132c64ce8f0c6bd2f4d75b5438aa21fbe56c6e8d26ad49f3e982eacd",
-  "notes": "v2.6.0: Construccion en pestanas (Quiz/Palabras/Categorias) con creacion facil paso a paso y JSON oculto en Avanzado; Reglas en CUADROS (puntos por posicion 1-5 y regalos por tamano); panel Como Vamos (fases + TOP RONDA + TOP NOCHE)",
-  "fecha": "2026-09-11T19:26:15.515Z"
+  "sha256": "4152dfcab5e9c27b7af2fbf4c9607f3d72be8394a9a6bb87b6b9b6dd9af3c5ec",
+  "notes": "v2.6.1: flujo Jugar paso a paso (Paso 1 elegir -> Paso 2 conectar live con tu usuario -> Siguiente -> panel de control; nada se acumula); tutorial de primeros pasos ELIMINADO; panel de control limpio (solo copiar URL overlay, controls y como vamos)",
+  "fecha": "2026-09-11T19:34:57.068Z"
 }
