@@ -1,7 +1,7 @@
 {
   "version": "2.5.1",
   "url": "https://raw.githubusercontent.com/Tormen28/wordch4t-updates/main/wordch4t-mini.zip",
-  "sha256": "d5e3bcbf5ba25e824cfad3900721af11e9338323c2d3b140aa60e99824cbe23c",
-  "notes": "v2.5.1: auto-actualizacion con cache-buster",
-  "fecha": "2026-09-11T18:11:32.060Z"
+  "sha256": "5a980c6db1b8e365dfa2dc3b8d81f497179b47bd06dafc2da668075e6de3be96",
+  "notes": "v2.5.1: auto-actualizacion verificada + guias de prueba + LEEME corregido",
+  "fecha": "2026-09-11T18:51:27.070Z"
 }
