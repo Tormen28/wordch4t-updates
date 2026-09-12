@@ -1,7 +1,7 @@
 {
-  "version": "2.9.0",
+  "version": "2.10.0",
   "url": "https://raw.githubusercontent.com/Tormen28/wordch4t-updates/main/wordch4t-mini.zip",
-  "sha256": "3cd3c89692734ca64fd75d7a1078969c223206452913d1ca4fe027f9eb4b92f1",
-  "notes": "v2.9.0 SEGURIDAD: bridge autenticado con token por partida (nadie falsifica tu live); bridge-launch/stop solo del dueno; CORS restringido; menu de perfil (cerrar sesion/cambiar contrasena); telefono fijo +58 4249338671; usuario TikTok se guarda solo",
-  "fecha": "2026-09-12T19:06:57.957Z"
+  "sha256": "9b7234cfb039dea81099dd59e689ccc0137fb3aa2a468387f5f8c2e49039ee1b",
+  "notes": "v2.10.0: vista previa del overlay en su PROPIA ventana (sin barra del navegador); Contrataciones siempre visible; dialogos con el estilo de la app; Quiz crea tema ahi mismo; pestana Biblioteca",
+  "fecha": "2026-09-12T19:31:59.188Z"
 }
