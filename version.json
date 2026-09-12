@@ -1,7 +1,7 @@
 {
-  "version": "2.7.1",
+  "version": "2.8.0",
   "url": "https://raw.githubusercontent.com/Tormen28/wordch4t-updates/main/wordch4t-mini.zip",
-  "sha256": "a23d1d972128d0bef4b187c7655699842ddc629a067a8a076d91463ef46c27e4",
-  "notes": "v2.7.1 FIX CONEXION REAL: el @ del usuario ya no rompe (se limpia solo); el bridge avisa al juego SOLO cuando TikTok conecta de verdad; mensajes claros (usuario no existe / no estas EN VIVO) con REINTENTO automatico cada 15s; ya no se muere en silencio",
-  "fecha": "2026-09-12T14:54:10.718Z"
+  "sha256": "98e1f2fdbe4a538790499fcc9796339c42adc8575b2703d105382e776abc2093",
+  "notes": "v2.8.0: menu de PERFIL (clic en tu cuenta arriba: cambiar contrasena + cerrar sesion); publico/privado OCULTO (no se usa todavia); 3 modos verificados cada uno con su propio contenido",
+  "fecha": "2026-09-12T15:03:24.592Z"
 }
