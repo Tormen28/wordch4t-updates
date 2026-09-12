@@ -1,7 +1,7 @@
 {
   "version": "2.7.0",
   "url": "https://raw.githubusercontent.com/Tormen28/wordch4t-updates/main/wordch4t-mini.zip",
-  "sha256": "a9ca81dd53991b0bf67eaf9be8a628a5cdf3a44c97a86a2d5ac40f87f20d56b0",
-  "notes": "v2.7.0: el usuario ya NO ve comandos — pone su usuario de TikTok y la app CONECTA SOLA (lanza el bridge por dentro, invisible); estado en vivo + registro del bridge en el panel; codigo manual queda oculto en Avanzado; boton Detener y Probar con chat simulado",
-  "fecha": "2026-09-12T02:13:26.370Z"
+  "sha256": "35fd4dad3902e7ec2ea4abdf4278503bbb1d76cf892e5dc78ad78584c329c477",
+  "notes": "v2.7.0 (fix): registro del bridge en vivo en el panel (flush -u)",
+  "fecha": "2026-09-12T02:15:55.610Z"
 }
