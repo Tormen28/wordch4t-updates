@@ -1,7 +1,7 @@
 {
-  "version": "2.10.0",
+  "version": "2.11.0",
   "url": "https://raw.githubusercontent.com/Tormen28/wordch4t-updates/main/wordch4t-mini.zip",
-  "sha256": "9b7234cfb039dea81099dd59e689ccc0137fb3aa2a468387f5f8c2e49039ee1b",
-  "notes": "v2.10.0: vista previa del overlay en su PROPIA ventana (sin barra del navegador); Contrataciones siempre visible; dialogos con el estilo de la app; Quiz crea tema ahi mismo; pestana Biblioteca",
-  "fecha": "2026-09-12T19:31:59.188Z"
+  "sha256": "db64f77b702ae1396e99d6475fc74f16577c1857ac1529ca2818df32986e792a",
+  "notes": "v2.11.0 BANCO POR TEMAS: crea temas (oceano, biblia, cocina...) y metes palabras con + (pista opcional); al jugar eliges el tema; ~1700 palabras en 11 temas listos",
+  "fecha": "2026-09-12T19:44:02.358Z"
 }
