@@ -1,7 +1,7 @@
 {
-  "version": "2.6.1",
+  "version": "2.7.0",
   "url": "https://raw.githubusercontent.com/Tormen28/wordch4t-updates/main/wordch4t-mini.zip",
-  "sha256": "4152dfcab5e9c27b7af2fbf4c9607f3d72be8394a9a6bb87b6b9b6dd9af3c5ec",
-  "notes": "v2.6.1: flujo Jugar paso a paso (Paso 1 elegir -> Paso 2 conectar live con tu usuario -> Siguiente -> panel de control; nada se acumula); tutorial de primeros pasos ELIMINADO; panel de control limpio (solo copiar URL overlay, controls y como vamos)",
-  "fecha": "2026-09-11T19:34:57.068Z"
+  "sha256": "a9ca81dd53991b0bf67eaf9be8a628a5cdf3a44c97a86a2d5ac40f87f20d56b0",
+  "notes": "v2.7.0: el usuario ya NO ve comandos — pone su usuario de TikTok y la app CONECTA SOLA (lanza el bridge por dentro, invisible); estado en vivo + registro del bridge en el panel; codigo manual queda oculto en Avanzado; boton Detener y Probar con chat simulado",
+  "fecha": "2026-09-12T02:13:26.370Z"
 }
