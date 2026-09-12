@@ -1,7 +1,7 @@
 {
-  "version": "2.8.1",
+  "version": "2.9.0",
   "url": "https://raw.githubusercontent.com/Tormen28/wordch4t-updates/main/wordch4t-mini.zip",
-  "sha256": "a60a8b254e637db4480b89294cffbf6707ffbbd4a85e1e3edc301df14b9970b3",
-  "notes": "v2.8.1: linea de contrataciones FIJA +58 4249338671 en el overlay (campo editable fuera); tu usuario de TikTok se guarda solo (escribelo una vez y aparece en cada partida)",
-  "fecha": "2026-09-12T15:16:20.355Z"
+  "sha256": "3cd3c89692734ca64fd75d7a1078969c223206452913d1ca4fe027f9eb4b92f1",
+  "notes": "v2.9.0 SEGURIDAD: bridge autenticado con token por partida (nadie falsifica tu live); bridge-launch/stop solo del dueno; CORS restringido; menu de perfil (cerrar sesion/cambiar contrasena); telefono fijo +58 4249338671; usuario TikTok se guarda solo",
+  "fecha": "2026-09-12T19:06:57.957Z"
 }
