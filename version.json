@@ -1,7 +1,7 @@
 {
-  "version": "2.7.0",
+  "version": "2.7.1",
   "url": "https://raw.githubusercontent.com/Tormen28/wordch4t-updates/main/wordch4t-mini.zip",
-  "sha256": "35fd4dad3902e7ec2ea4abdf4278503bbb1d76cf892e5dc78ad78584c329c477",
-  "notes": "v2.7.0 (fix): registro del bridge en vivo en el panel (flush -u)",
-  "fecha": "2026-09-12T02:15:55.610Z"
+  "sha256": "a23d1d972128d0bef4b187c7655699842ddc629a067a8a076d91463ef46c27e4",
+  "notes": "v2.7.1 FIX CONEXION REAL: el @ del usuario ya no rompe (se limpia solo); el bridge avisa al juego SOLO cuando TikTok conecta de verdad; mensajes claros (usuario no existe / no estas EN VIVO) con REINTENTO automatico cada 15s; ya no se muere en silencio",
+  "fecha": "2026-09-12T14:54:10.718Z"
 }
