@@ -1,7 +1,7 @@
 {
-  "version": "2.16.0",
+  "version": "2.16.1",
   "url": "https://raw.githubusercontent.com/Tormen28/wordch4t-updates/main/wordch4t-mini.zip",
-  "sha256": "80f8284867731ff743c33d71f2499beb747bc7d4d53906a7a57da7f0ced38d12",
-  "notes": "v2.16.0: Setup inteligente — verifica y descarga/instala solo lo que falte (Python + libreria del live); install a prueba de apps abiertas; LEEME con aviso SmartScreen",
-  "fecha": "2026-09-13T19:06:44.852Z"
+  "sha256": "ae8a14733fe71fedfef9557a614edbaf4e7ebc4b2bb00ee134a48697b28b8531",
+  "notes": "v2.16.1: auto-recuperacion total — la app reintenta levantar el motor sola si falla al abrir (log en %TEMP%/wordch4t-boot.log)",
+  "fecha": "2026-09-13T19:10:47.670Z"
 }
