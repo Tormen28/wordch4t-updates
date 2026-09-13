@@ -1,7 +1,7 @@
 {
-  "version": "2.13.0",
+  "version": "2.14.0",
   "url": "https://raw.githubusercontent.com/Tormen28/wordch4t-updates/main/wordch4t-mini.zip",
-  "sha256": "a9932898345d18c5f762dc334557659760789278b1eb04d7f56a0a61c1e70213",
-  "notes": "v2.13.0 GRANDE: 3 modos de palabra (clasico con pista / ahorcado de letras / sin pista + cercania %); creditos por regalos con COSTOS configurables (1 silaba / palabra completa); tema visual instantaneo; lateral que se cierra y abre; UI con bordes definidos",
-  "fecha": "2026-09-13T10:38:06.688Z"
+  "sha256": "6d9247c97fcb9588da6064e2148c4f11a009c69766282e36fd42edf51d6dd5eb",
+  "notes": "v2.14.0: el tema visual ahora cambia TODO el panel (neon / clasico azul / blanco) + se recuerda en el equipo, sin parpadeo",
+  "fecha": "2026-09-13T10:46:26.092Z"
 }
