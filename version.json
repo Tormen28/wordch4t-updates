@@ -1,7 +1,7 @@
 {
   "version": "2.15.2",
   "url": "https://raw.githubusercontent.com/Tormen28/wordch4t-updates/main/wordch4t-mini.zip",
-  "sha256": "3edf2634d4b10de4ed59a2e807251b68d3470b3ee336a648d718550ce25d0eb4",
-  "notes": "v2.15.2: arranque robusto de la app (pagina Iniciando + reintento auto si el motor tarda; cerrar una ventana ya no apaga el server compartido)",
-  "fecha": "2026-09-13T18:53:17.293Z"
+  "sha256": "ed9dc0650f7282a834083d2859d15508491b60c35819964dbac4db1bb952a415",
+  "notes": "v2.15.2: arranque robusto (pagina Iniciando + reintento auto; el server ya no muere al cerrar) — paquetes refrescados",
+  "fecha": "2026-09-13T18:57:30.673Z"
 }
