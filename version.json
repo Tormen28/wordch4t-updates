@@ -1,7 +1,7 @@
 {
-  "version": "2.15.1",
+  "version": "2.15.2",
   "url": "https://raw.githubusercontent.com/Tormen28/wordch4t-updates/main/wordch4t-mini.zip",
-  "sha256": "96c96e49fac711b86ed281eeebb2ad84e99cdb7e2c687126fd20aed8c3aaac02",
-  "notes": "Wordch4t V2: marca V2 en TODO (panel, overlay, ventanas, admin) — esta es la version real y funcional",
-  "fecha": "2026-09-13T18:06:13.077Z"
+  "sha256": "3edf2634d4b10de4ed59a2e807251b68d3470b3ee336a648d718550ce25d0eb4",
+  "notes": "v2.15.2: arranque robusto de la app (pagina Iniciando + reintento auto si el motor tarda; cerrar una ventana ya no apaga el server compartido)",
+  "fecha": "2026-09-13T18:53:17.293Z"
 }
