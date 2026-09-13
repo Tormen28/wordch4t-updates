@@ -1,7 +1,7 @@
 {
-  "version": "2.12.0",
+  "version": "2.13.0",
   "url": "https://raw.githubusercontent.com/Tormen28/wordch4t-updates/main/wordch4t-mini.zip",
-  "sha256": "009e7e166effc95fd168b20c202ce0c25bcfbf48d1fa20e469b2f805369a41be",
-  "notes": "v2.12.0: aprobacion de TEMAS de palabras (borrador/revision/aprobado) igual que Quiz; seccion Temas de palabras en Biblioteca con Jugar directo; vista admin para aprobar; chip de estado + boton Enviar a revision en Palabras",
-  "fecha": "2026-09-13T09:54:58.109Z"
+  "sha256": "a9932898345d18c5f762dc334557659760789278b1eb04d7f56a0a61c1e70213",
+  "notes": "v2.13.0 GRANDE: 3 modos de palabra (clasico con pista / ahorcado de letras / sin pista + cercania %); creditos por regalos con COSTOS configurables (1 silaba / palabra completa); tema visual instantaneo; lateral que se cierra y abre; UI con bordes definidos",
+  "fecha": "2026-09-13T10:38:06.688Z"
 }
