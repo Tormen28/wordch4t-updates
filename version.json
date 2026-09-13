@@ -1,7 +1,7 @@
 {
-  "version": "2.17.0",
+  "version": "2.17.1",
   "url": "https://raw.githubusercontent.com/Tormen28/wordch4t-updates/main/wordch4t-mini.zip",
-  "sha256": "f695f7db368e552e5d19fcbc799ddebbd3ffe30756cd7e3fb8cae6d24a1ad219",
-  "notes": "v2.17.0: el Setup prepara TODO solo (descarga Python + TikTokLive si faltan, con ventana de marca); install a prueba de app abierta; version coherente",
-  "fecha": "2026-09-13T19:37:25.090Z"
+  "sha256": "92c6ee2eb05bdaca8f27741302683f289e8a64be7e2471e6f53217db9424451f",
+  "notes": "v2.17.1: prueba en vivo de la auto-actualizacion para clientes",
+  "fecha": "2026-09-13T23:13:57.897Z"
 }
