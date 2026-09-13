@@ -1,7 +1,7 @@
 {
-  "version": "2.15.0",
+  "version": "2.15.1",
   "url": "https://raw.githubusercontent.com/Tormen28/wordch4t-updates/main/wordch4t-mini.zip",
-  "sha256": "a6ec4fc8963ec5b54b5bf331de23108755a4668310831685e091a8487087f82c",
-  "notes": "v2.15.0: GATE de aprobacion — sin moderador aprobar NO se juega (403 verificado); bug CORS localhost.evil cerrado; tests Go 46 + E2E 60",
-  "fecha": "2026-09-13T11:34:53.288Z"
+  "sha256": "96c96e49fac711b86ed281eeebb2ad84e99cdb7e2c687126fd20aed8c3aaac02",
+  "notes": "Wordch4t V2: marca V2 en TODO (panel, overlay, ventanas, admin) — esta es la version real y funcional",
+  "fecha": "2026-09-13T18:06:13.077Z"
 }
