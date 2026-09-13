@@ -1,7 +1,7 @@
 {
-  "version": "2.17.1",
+  "version": "2.17.2",
   "url": "https://raw.githubusercontent.com/Tormen28/wordch4t-updates/main/wordch4t-mini.zip",
-  "sha256": "92c6ee2eb05bdaca8f27741302683f289e8a64be7e2471e6f53217db9424451f",
-  "notes": "v2.17.1: prueba en vivo de la auto-actualizacion para clientes",
-  "fecha": "2026-09-13T23:13:57.897Z"
+  "sha256": "63b04239b92b4f3813e78a5ce86d7445b10c8e3edfc7d1d971b28e309b2043bd",
+  "notes": "v2.17.2: panel admin con reintento automatico y aviso claro si el motor se reinicia",
+  "fecha": "2026-09-13T23:47:43.984Z"
 }
