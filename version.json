@@ -1,7 +1,7 @@
 {
-  "version": "2.11.0",
+  "version": "2.12.0",
   "url": "https://raw.githubusercontent.com/Tormen28/wordch4t-updates/main/wordch4t-mini.zip",
-  "sha256": "db64f77b702ae1396e99d6475fc74f16577c1857ac1529ca2818df32986e792a",
-  "notes": "v2.11.0 BANCO POR TEMAS: crea temas (oceano, biblia, cocina...) y metes palabras con + (pista opcional); al jugar eliges el tema; ~1700 palabras en 11 temas listos",
-  "fecha": "2026-09-12T19:44:02.358Z"
+  "sha256": "009e7e166effc95fd168b20c202ce0c25bcfbf48d1fa20e469b2f805369a41be",
+  "notes": "v2.12.0: aprobacion de TEMAS de palabras (borrador/revision/aprobado) igual que Quiz; seccion Temas de palabras en Biblioteca con Jugar directo; vista admin para aprobar; chip de estado + boton Enviar a revision en Palabras",
+  "fecha": "2026-09-13T09:54:58.109Z"
 }
