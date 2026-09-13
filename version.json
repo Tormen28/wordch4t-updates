@@ -1,7 +1,7 @@
 {
-  "version": "2.15.2",
+  "version": "2.16.0",
   "url": "https://raw.githubusercontent.com/Tormen28/wordch4t-updates/main/wordch4t-mini.zip",
-  "sha256": "ed9dc0650f7282a834083d2859d15508491b60c35819964dbac4db1bb952a415",
-  "notes": "v2.15.2: arranque robusto (pagina Iniciando + reintento auto; el server ya no muere al cerrar) — paquetes refrescados",
-  "fecha": "2026-09-13T18:57:30.673Z"
+  "sha256": "80f8284867731ff743c33d71f2499beb747bc7d4d53906a7a57da7f0ced38d12",
+  "notes": "v2.16.0: Setup inteligente — verifica y descarga/instala solo lo que falte (Python + libreria del live); install a prueba de apps abiertas; LEEME con aviso SmartScreen",
+  "fecha": "2026-09-13T19:06:44.852Z"
 }
