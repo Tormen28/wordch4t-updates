@@ -1,7 +1,7 @@
 {
-  "version": "2.17.10",
+  "version": "2.17.11",
   "url": "https://raw.githubusercontent.com/Tormen28/wordch4t-updates/main/wordch4t-mini.zip",
-  "sha256": "f58685a52e1b0617d2f4ff52de13f1c27157ef7cde0d7a1a2665020654e076fd",
-  "notes": "Mensajes claros al conectar (cuenta no en vivo), puente UTF-8 sin ventanas, panel limpio, botones noche y ronda, abrir overlay",
-  "fecha": "2026-09-14T00:35:47.438Z"
+  "sha256": "470c79b642da4902057dd8953d7c61a1d350dc0ada4082022f855111b4085c31",
+  "notes": "Overlay con URL FIJA (sin tokens que caducan) + auto-reenganche; registro de actividad fuera; botones de control con reconexion automatica",
+  "fecha": "2026-09-14T00:55:07.295Z"
 }
