@@ -1,7 +1,7 @@
 {
-  "version": "2.17.2",
+  "version": "2.17.9",
   "url": "https://raw.githubusercontent.com/Tormen28/wordch4t-updates/main/wordch4t-mini.zip",
-  "sha256": "63b04239b92b4f3813e78a5ce86d7445b10c8e3edfc7d1d971b28e309b2043bd",
-  "notes": "v2.17.2: panel admin con reintento automatico y aviso claro si el motor se reinicia",
-  "fecha": "2026-09-13T23:47:43.984Z"
+  "sha256": "290cd894f583f90378e5550cbbd904b2da358c2154ff9b24ecfe7e2bb4b2b950",
+  "notes": "Puente TikTok arreglado (sin ventanas negras, UTF-8), botones de noche y ronda, boton Abrir overlay, sin textos tecnicos en el panel",
+  "fecha": "2026-09-14T00:31:24.525Z"
 }
