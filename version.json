@@ -1,7 +1,7 @@
 {
-  "version": "2.17.12",
+  "version": "2.17.13",
   "url": "https://raw.githubusercontent.com/Tormen28/wordch4t-updates/main/wordch4t-mini.zip",
-  "sha256": "5861e688e77bb7d89277de0ac4c29a5c52db8f6754c3ed4e6aac1ab8126fd94f",
-  "notes": "Filtro anti-ruido del chat (solo respuestas reales cuentan) + botones Pasar ronda y Cerrar noche",
-  "fecha": "2026-09-14T00:59:52.591Z"
+  "sha256": "9aa04cef5f4247bc4a6c30232d46ab124d2d8853011f3b9ada77b165342b975d",
+  "notes": "Overlay palabra pulido: LA PALABRA muestra la mascara viva correcta, PISTA solo la pista, sin '0 pts' fantasma en el top de ronda",
+  "fecha": "2026-09-14T01:09:32.205Z"
 }
