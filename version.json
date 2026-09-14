@@ -1,7 +1,7 @@
 {
-  "version": "2.17.13",
+  "version": "2.17.14",
   "url": "https://raw.githubusercontent.com/Tormen28/wordch4t-updates/main/wordch4t-mini.zip",
-  "sha256": "9aa04cef5f4247bc4a6c30232d46ab124d2d8853011f3b9ada77b165342b975d",
-  "notes": "Overlay palabra pulido: LA PALABRA muestra la mascara viva correcta, PISTA solo la pista, sin '0 pts' fantasma en el top de ronda",
-  "fecha": "2026-09-14T01:09:32.205Z"
+  "sha256": "a61d03c85786e234925ab5e70075d48f649ffb187670bf820393e462f9fb5ff9",
+  "notes": "Live estable: aviso unico al conectar (sin spam cada 15s), latido reforzado por eventos reales de TikTok, reconexion automatica silenciosa",
+  "fecha": "2026-09-14T01:37:19.727Z"
 }
