@@ -1,7 +1,7 @@
 {
-  "version": "2.17.9",
+  "version": "2.17.10",
   "url": "https://raw.githubusercontent.com/Tormen28/wordch4t-updates/main/wordch4t-mini.zip",
-  "sha256": "290cd894f583f90378e5550cbbd904b2da358c2154ff9b24ecfe7e2bb4b2b950",
-  "notes": "Puente TikTok arreglado (sin ventanas negras, UTF-8), botones de noche y ronda, boton Abrir overlay, sin textos tecnicos en el panel",
-  "fecha": "2026-09-14T00:31:24.525Z"
+  "sha256": "f58685a52e1b0617d2f4ff52de13f1c27157ef7cde0d7a1a2665020654e076fd",
+  "notes": "Mensajes claros al conectar (cuenta no en vivo), puente UTF-8 sin ventanas, panel limpio, botones noche y ronda, abrir overlay",
+  "fecha": "2026-09-14T00:35:31.500Z"
 }
