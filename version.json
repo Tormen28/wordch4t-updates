@@ -1,7 +1,7 @@
 {
-  "version": "2.17.11",
+  "version": "2.17.12",
   "url": "https://raw.githubusercontent.com/Tormen28/wordch4t-updates/main/wordch4t-mini.zip",
-  "sha256": "470c79b642da4902057dd8953d7c61a1d350dc0ada4082022f855111b4085c31",
-  "notes": "Overlay con URL FIJA (sin tokens que caducan) + auto-reenganche; registro de actividad fuera; botones de control con reconexion automatica",
-  "fecha": "2026-09-14T00:55:07.295Z"
+  "sha256": "5861e688e77bb7d89277de0ac4c29a5c52db8f6754c3ed4e6aac1ab8126fd94f",
+  "notes": "Filtro anti-ruido del chat (solo respuestas reales cuentan) + botones Pasar ronda y Cerrar noche",
+  "fecha": "2026-09-14T00:59:52.591Z"
 }
