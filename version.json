@@ -1,7 +1,7 @@
 {
-  "version": "2.18.0",
+  "version": "2.18.1",
   "url": "https://raw.githubusercontent.com/Tormen28/wordch4t-updates/main/wordch4t-mini.zip",
-  "sha256": "c55d9d4bc5d588ed4d28c8b5a74f3d7af3ccd12115b3da4f7fd293aef662f383",
-  "notes": "Version pulida: panel mucho mas rapido (cache de auth/flags), el regalo se entiende (cuantas pistas y cuanto falta), nada se queda cargando para siempre, panel mas accesible y registros de soporte utiles",
-  "fecha": "2026-09-15T00:52:24.010Z"
+  "sha256": "75ae2777f292a2acf2ded486029ab56beb5c25a5174d63aafe92d07fd1dc3436",
+  "notes": "El juego ahora usa TODO tu banco de palabras (antes solo 300 de 1.618): menos repeticion, numeros reales por tema, filtro por tema que funciona y el panel ve tu banco completo",
+  "fecha": "2026-09-15T01:28:44.771Z"
 }
