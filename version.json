@@ -1,7 +1,7 @@
 {
-  "version": "2.18.1",
+  "version": "2.18.2",
   "url": "https://raw.githubusercontent.com/Tormen28/wordch4t-updates/main/wordch4t-mini.zip",
-  "sha256": "75ae2777f292a2acf2ded486029ab56beb5c25a5174d63aafe92d07fd1dc3436",
-  "notes": "El juego ahora usa TODO tu banco de palabras (antes solo 300 de 1.618): menos repeticion, numeros reales por tema, filtro por tema que funciona y el panel ve tu banco completo",
-  "fecha": "2026-09-15T01:28:44.771Z"
+  "sha256": "75859df4ba980a426a2b099d1537ad62bcafe8ee7bb146a37ac33f9c30188dec",
+  "notes": "Cierre de las auditorias: la paginacion ahora se prueba de verdad (tests con 1500 filas), el panel vuelve a mostrar lo mas nuevo primero, aviso si un banco gigante supera el tope y la moderacion tambien usa cache",
+  "fecha": "2026-09-15T02:11:59.823Z"
 }
