@@ -1,7 +1,7 @@
 {
-  "version": "2.17.14",
+  "version": "2.18.0",
   "url": "https://raw.githubusercontent.com/Tormen28/wordch4t-updates/main/wordch4t-mini.zip",
-  "sha256": "a61d03c85786e234925ab5e70075d48f649ffb187670bf820393e462f9fb5ff9",
-  "notes": "Live estable: aviso unico al conectar (sin spam cada 15s), latido reforzado por eventos reales de TikTok, reconexion automatica silenciosa",
-  "fecha": "2026-09-14T01:37:19.727Z"
+  "sha256": "c55d9d4bc5d588ed4d28c8b5a74f3d7af3ccd12115b3da4f7fd293aef662f383",
+  "notes": "Version pulida: panel mucho mas rapido (cache de auth/flags), el regalo se entiende (cuantas pistas y cuanto falta), nada se queda cargando para siempre, panel mas accesible y registros de soporte utiles",
+  "fecha": "2026-09-15T00:52:24.010Z"
 }
