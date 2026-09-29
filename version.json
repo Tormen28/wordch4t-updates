@@ -1,7 +1,7 @@
 {
-  "version": "2.18.2",
+  "version": "2.18.3",
   "url": "https://raw.githubusercontent.com/Tormen28/wordch4t-updates/main/wordch4t-mini.zip",
-  "sha256": "75859df4ba980a426a2b099d1537ad62bcafe8ee7bb146a37ac33f9c30188dec",
-  "notes": "Cierre de las auditorias: la paginacion ahora se prueba de verdad (tests con 1500 filas), el panel vuelve a mostrar lo mas nuevo primero, aviso si un banco gigante supera el tope y la moderacion tambien usa cache",
-  "fecha": "2026-09-15T02:11:59.823Z"
+  "sha256": "b1b5a323ed0272b8a62d705838b0bdeffb364217a7269df59cd6f0e2374e2472",
+  "notes": "Pruebas reales: el contenido ya no pide aprobación · bienvenida nueva para cada cuenta (150 palabras + 120 preguntas) · pulido de UI (premio del overlay, contraste AA, móvil) · suite de pruebas ampliada",
+  "fecha": "2026-09-29T10:39:21.358Z"
 }
