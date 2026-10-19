@@ -1,7 +1,7 @@
 {
-  "version": "2.18.5",
+  "version": "2.20.0",
   "url": "https://raw.githubusercontent.com/Tormen28/wordch4t-updates/main/wordch4t-mini.zip",
-  "sha256": "a9c0117912c7bbaf0e48a72032ac94a544b724cd4381c3751d779c57d77b8136",
-  "notes": "«Ver respuesta» solo en el panel (nunca en el overlay) · selector Top Ronda / Top Noche con cambio inmediato",
-  "fecha": "2026-10-19T01:08:14.331Z"
+  "sha256": "c4006ec914ca6f5be7d93bd764ef10f96aaf7f9b2b6c7e211e9aa6dca3d79ae2",
+  "notes": "v2.20.0: conexión estable con reconexión automática e indicador 🟢🟡🔴, Paso 1 conectar al live, Terminar no desconecta, sin fuga del acierto, filtro de groserías, casillas por letra, Mario por cercanía (tope 95%), quiz: gana el primero, regalos sin cuelgue.",
+  "fecha": "2026-10-19T23:11:16.717Z"
 }
