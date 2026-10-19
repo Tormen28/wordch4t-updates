@@ -1,7 +1,7 @@
 {
-  "version": "2.18.4",
+  "version": "2.18.5",
   "url": "https://raw.githubusercontent.com/Tormen28/wordch4t-updates/main/wordch4t-mini.zip",
-  "sha256": "508d24e050557cbc50296f19f1fbf5dc767625c1a781ff82fefa47bd14c150a7",
-  "notes": "Arreglo: el panel ya no se queda en el paso 2 en modo palabra · el Top Noche acumula entre rondas",
-  "fecha": "2026-10-19T00:49:42.092Z"
+  "sha256": "a9c0117912c7bbaf0e48a72032ac94a544b724cd4381c3751d779c57d77b8136",
+  "notes": "«Ver respuesta» solo en el panel (nunca en el overlay) · selector Top Ronda / Top Noche con cambio inmediato",
+  "fecha": "2026-10-19T01:08:14.331Z"
 }
