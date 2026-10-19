@@ -1,7 +1,7 @@
 {
-  "version": "2.18.3",
+  "version": "2.18.4",
   "url": "https://raw.githubusercontent.com/Tormen28/wordch4t-updates/main/wordch4t-mini.zip",
-  "sha256": "b1b5a323ed0272b8a62d705838b0bdeffb364217a7269df59cd6f0e2374e2472",
-  "notes": "Pruebas reales: el contenido ya no pide aprobación · bienvenida nueva para cada cuenta (150 palabras + 120 preguntas) · pulido de UI (premio del overlay, contraste AA, móvil) · suite de pruebas ampliada",
-  "fecha": "2026-09-29T10:39:21.358Z"
+  "sha256": "508d24e050557cbc50296f19f1fbf5dc767625c1a781ff82fefa47bd14c150a7",
+  "notes": "Arreglo: el panel ya no se queda en el paso 2 en modo palabra · el Top Noche acumula entre rondas",
+  "fecha": "2026-10-19T00:49:42.092Z"
 }
