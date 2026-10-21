@@ -1,7 +1,7 @@
 {
-  "version": "2.21.0",
+  "version": "2.21.1",
   "url": "https://raw.githubusercontent.com/Tormen28/wordch4t-updates/main/wordch4t-mini.zip",
-  "sha256": "7b20299e592c36e6ee1a8925d918b67f0d0a3ebbe9ee88fda94b92035317506b",
-  "notes": "v2.21.0: los seis modos juntos con panel y overlay por modo, quiz por texto escrito (gana el primero), Mario por cercanía solo en modos de palabra, Modo Dibujo con palabras guardadas y «Otra palabra», regalos por letras al azar y por valor en diamantes, paso 2 simple por modo, HUD/mínimo que se ajusta solo, banco único sin repetidos y e2e que no deja restos.",
-  "fecha": "2026-10-21T00:06:56.844Z"
+  "sha256": "9c81e9d43b51df8a6e581395268d468bf107783320bf85f35c29e1e6941a4a5d",
+  "notes": "v2.21.1: overlay en vivo corregido — casillas y reloj no se borran al conectar a mitad de ronda, reloj sincronizado con el panel, aviso de regalo (solo conteo), overlay pegado arriba y a todo el ancho.",
+  "fecha": "2026-10-21T00:47:25.321Z"
 }
