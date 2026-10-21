@@ -1,7 +1,7 @@
 {
-  "version": "2.20.0",
+  "version": "2.21.0",
   "url": "https://raw.githubusercontent.com/Tormen28/wordch4t-updates/main/wordch4t-mini.zip",
-  "sha256": "c4006ec914ca6f5be7d93bd764ef10f96aaf7f9b2b6c7e211e9aa6dca3d79ae2",
-  "notes": "v2.20.0: conexión estable con reconexión automática e indicador 🟢🟡🔴, Paso 1 conectar al live, Terminar no desconecta, sin fuga del acierto, filtro de groserías, casillas por letra, Mario por cercanía (tope 95%), quiz: gana el primero, regalos sin cuelgue.",
-  "fecha": "2026-10-19T23:11:16.717Z"
+  "sha256": "7b20299e592c36e6ee1a8925d918b67f0d0a3ebbe9ee88fda94b92035317506b",
+  "notes": "v2.21.0: los seis modos juntos con panel y overlay por modo, quiz por texto escrito (gana el primero), Mario por cercanía solo en modos de palabra, Modo Dibujo con palabras guardadas y «Otra palabra», regalos por letras al azar y por valor en diamantes, paso 2 simple por modo, HUD/mínimo que se ajusta solo, banco único sin repetidos y e2e que no deja restos.",
+  "fecha": "2026-10-21T00:06:56.844Z"
 }
