@@ -1,7 +1,7 @@
 {
-  "version": "2.21.1",
+  "version": "2.21.2",
   "url": "https://raw.githubusercontent.com/Tormen28/wordch4t-updates/main/wordch4t-mini.zip",
-  "sha256": "9c81e9d43b51df8a6e581395268d468bf107783320bf85f35c29e1e6941a4a5d",
-  "notes": "v2.21.1: overlay en vivo corregido — casillas y reloj no se borran al conectar a mitad de ronda, reloj sincronizado con el panel, aviso de regalo (solo conteo), overlay pegado arriba y a todo el ancho.",
-  "fecha": "2026-10-21T00:47:25.321Z"
+  "sha256": "e64c1b67dc6ae06b2d18287cba427af6ee3f741dc1a36e1434f3538b14149da5",
+  "notes": "v2.21.2: regalos de Ajustes en vivo en la partida y el overlay, tarjeta Mas cerca con lo que escribio y su %, Contrataciones encima del Top.",
+  "fecha": "2026-10-21T01:19:59.782Z"
 }
