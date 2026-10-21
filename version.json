@@ -1,7 +1,7 @@
 {
-  "version": "2.21.2",
+  "version": "2.21.3",
   "url": "https://raw.githubusercontent.com/Tormen28/wordch4t-updates/main/wordch4t-mini.zip",
-  "sha256": "e64c1b67dc6ae06b2d18287cba427af6ee3f741dc1a36e1434f3538b14149da5",
-  "notes": "v2.21.2: regalos de Ajustes en vivo en la partida y el overlay, tarjeta Mas cerca con lo que escribio y su %, Contrataciones encima del Top.",
-  "fecha": "2026-10-21T01:19:59.782Z"
+  "sha256": "1d7c4b024ad586211fc726ed7439f498aa6603c8d4c9ef9d6a64a37fc28a86c3",
+  "notes": "Top Ronda en vivo y Top Noche acumulada; overlay sin partida con perfil y regalos; ventana Abrir overlay con fondo del panel; el overlay sigue solo a la partida actual.",
+  "fecha": "2026-10-21T02:13:53.705Z"
 }
