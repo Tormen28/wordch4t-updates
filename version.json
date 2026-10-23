@@ -1,7 +1,7 @@
 {
-  "version": "2.21.3",
+  "version": "2.21.4",
   "url": "https://raw.githubusercontent.com/Tormen28/wordch4t-updates/main/wordch4t-mini.zip",
-  "sha256": "1d7c4b024ad586211fc726ed7439f498aa6603c8d4c9ef9d6a64a37fc28a86c3",
-  "notes": "Top Ronda en vivo y Top Noche acumulada; overlay sin partida con perfil y regalos; ventana Abrir overlay con fondo del panel; el overlay sigue solo a la partida actual.",
-  "fecha": "2026-10-21T02:13:53.705Z"
+  "sha256": "74efaa13dbdaa5c26c451af4c46e23e4106d6d66ee84f87fc2646b5cc3152677",
+  "notes": "Regalos: textos 1 letra / 2 letras / palabra completa con los créditos de Ajustes (editables). Cartel superior para regalos, quién acertó y empates. Dibujo: sincronización completa, temas de palabras y Contrataciones. Puntos: repetir la palabra ya no suma doble y Dibujo vuelve a puntuar en cada ronda. Construcción: estados en español, aviso de contenido compartido, búsqueda y edición en línea.",
+  "fecha": "2026-10-23T13:49:27.788Z"
 }
