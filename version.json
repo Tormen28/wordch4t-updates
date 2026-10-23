@@ -1,7 +1,7 @@
 {
-  "version": "2.21.4",
+  "version": "2.21.5",
   "url": "https://raw.githubusercontent.com/Tormen28/wordch4t-updates/main/wordch4t-mini.zip",
-  "sha256": "74efaa13dbdaa5c26c451af4c46e23e4106d6d66ee84f87fc2646b5cc3152677",
-  "notes": "Regalos: textos 1 letra / 2 letras / palabra completa con los créditos de Ajustes (editables). Cartel superior para regalos, quién acertó y empates. Dibujo: sincronización completa, temas de palabras y Contrataciones. Puntos: repetir la palabra ya no suma doble y Dibujo vuelve a puntuar en cada ronda. Construcción: estados en español, aviso de contenido compartido, búsqueda y edición en línea.",
-  "fecha": "2026-10-23T13:49:27.788Z"
+  "sha256": "740bdbaa86b89354a676838f220c03b07609954521050a762cd24ec030161310",
+  "notes": "Construcción: los textos ahora reflejan la beta real: lo que creas se aprueba automáticamente y es público para todos al instante (Creado → Aprobado automático → Jugar).",
+  "fecha": "2026-10-23T14:13:25.533Z"
 }
