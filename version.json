@@ -1,7 +1,7 @@
 {
-  "version": "2.21.6",
+  "version": "2.23.0",
   "url": "https://raw.githubusercontent.com/Tormen28/wordch4t-updates/main/wordch4t-mini.zip",
-  "sha256": "03c517f67c49feee9de5e869a118a82673b5c25d910d15b5a85951167c7f1d49",
-  "notes": "Acceso: revocar una cuenta la bloquea de verdad (datos, sesiones y live en curso); solo moderadores cambian aprobación y rol; la aprobación se revisa cada 10 s.",
-  "fecha": "2026-10-25T12:06:19.660Z"
+  "sha256": "b2a244feba6bdb466fbb349398e5a172b5a169496a229f869140271617375acd",
+  "notes": "Regalos destapan letras solos (también en Sin pista); Historial de noches con autoguardado y Seguir tras una caída; Top Noche suma toda la noche; Dibujo más limpio; el juego no se congela con el panel cerrado.",
+  "fecha": "2026-10-25T14:47:41.395Z"
 }
