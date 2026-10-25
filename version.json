@@ -1,7 +1,7 @@
 {
-  "version": "2.21.5",
+  "version": "2.21.6",
   "url": "https://raw.githubusercontent.com/Tormen28/wordch4t-updates/main/wordch4t-mini.zip",
-  "sha256": "740bdbaa86b89354a676838f220c03b07609954521050a762cd24ec030161310",
-  "notes": "Construcción: los textos ahora reflejan la beta real: lo que creas se aprueba automáticamente y es público para todos al instante (Creado → Aprobado automático → Jugar).",
-  "fecha": "2026-10-23T14:13:25.533Z"
+  "sha256": "03c517f67c49feee9de5e869a118a82673b5c25d910d15b5a85951167c7f1d49",
+  "notes": "Acceso: revocar una cuenta la bloquea de verdad (datos, sesiones y live en curso); solo moderadores cambian aprobación y rol; la aprobación se revisa cada 10 s.",
+  "fecha": "2026-10-25T12:06:19.660Z"
 }
