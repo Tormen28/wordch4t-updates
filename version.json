@@ -1,7 +1,7 @@
 {
-  "version": "2.23.0",
+  "version": "2.24.0",
   "url": "https://raw.githubusercontent.com/Tormen28/wordch4t-updates/main/wordch4t-mini.zip",
-  "sha256": "b2a244feba6bdb466fbb349398e5a172b5a169496a229f869140271617375acd",
-  "notes": "Regalos destapan letras solos (también en Sin pista); Historial de noches con autoguardado y Seguir tras una caída; Top Noche suma toda la noche; Dibujo más limpio; el juego no se congela con el panel cerrado.",
-  "fecha": "2026-10-25T14:47:41.395Z"
+  "sha256": "a2554196df9871116ce6c90b231af54099070d85a9e591159d9a1da9118fe5f6",
+  "notes": "Regalos de 1, 2 o 5 letras con precio en 💎. Los regalos destapan letras hasta que falten 2. «Tipo Mario» ahora se llama «Puntos dinámicos».",
+  "fecha": "2026-10-27T00:34:01.715Z"
 }
