@@ -1,7 +1,7 @@
 {
-  "version": "2.24.2",
+  "version": "2.24.3",
   "url": "https://raw.githubusercontent.com/Tormen28/wordch4t-updates/main/wordch4t-mini.zip",
-  "sha256": "fe021e523a79028925377d17a9b73427d9e5f45117956894db25b30b6e96c575",
-  "notes": "Al actualizarse se reemplaza tambien el bridge del live; LEEME con la version correcta",
-  "fecha": "2026-10-31T21:48:24.667Z"
+  "sha256": "b3f35abf87bce605770bb2899227ebadc61db10317e953bbaf1635e67f94c40d",
+  "notes": "El auto-update ahora copia todo lo que trae el paquete (bridge, assets, scripts) y nunca toca tus datos",
+  "fecha": "2026-11-01T01:19:56.339Z"
 }
